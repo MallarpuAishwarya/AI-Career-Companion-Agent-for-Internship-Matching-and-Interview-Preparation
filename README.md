@@ -36,8 +36,7 @@ The platform also provides ATS analysis, skill-gap analysis, personalized cover 
 
 ## System Workflow
 
-<img width="785" height="1024" alt="image" src="https://github.com/user-attachments/assets/afc62188-f214-4c7a-b43c-71f4c7aa7431" />
-
+<img width="785" height="1024" alt="image" src= "https://chatgpt.com/s/m_6ab2770fe58c8191babdd39072f5933b" />
 
 ## AI Safety and Platform Guardrails
 
