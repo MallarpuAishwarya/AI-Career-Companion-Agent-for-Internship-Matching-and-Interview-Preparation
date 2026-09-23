@@ -165,8 +165,7 @@ AI-Career-Companion-Agent/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Azra-24/AI-Career-Companion-Agent-for-Internship-Matching-and-Interview-Preparation.git
-cd AI-Career-Companion-Agent-for-Internship-Matching-and-Interview-Preparation
+https://github.com/MallarpuAishwarya/AI-Career-Companion-Agent-for-Internship-Matching-and-Interview-Preparation
 ```
 
 ### 2. Create a Virtual Environment
